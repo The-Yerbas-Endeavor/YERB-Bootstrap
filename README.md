@@ -2,7 +2,7 @@
 
 Bootstrap and PoW cache data for Yerbas Core wallets and services.
 
-`bootstrap-index.zip` includes the additional indexes required by the Yerbas Multi-Explorer:
+`bootstrap-index.zip` includes the additional indexes used by Explorers:
 
 ```ini
 addressindex=1
