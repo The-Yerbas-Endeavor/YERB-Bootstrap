@@ -11,4 +11,4 @@ spentindex=1
 timestampindex=1
 txindex=1
 ```
-
+Only used for explorers
